@@ -1,0 +1,3 @@
+[submodule "payment-services"]
+	path = payment-services
+	url = https://github.com/Karthik4405/payment-services.git
